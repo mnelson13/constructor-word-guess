@@ -1,0 +1,22 @@
+{
+  "name": "constructor-word-guess",
+  "version": "1.0.0",
+  "description": "Homework Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnelson13/constructor-word-guess.git"
+  },
+  "author": "Melissa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnelson13/constructor-word-guess/issues"
+  },
+  "homepage": "https://github.com/mnelson13/constructor-word-guess#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  }
+}
