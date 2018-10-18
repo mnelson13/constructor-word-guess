@@ -18,6 +18,6 @@
   "homepage": "https://github.com/mnelson13/constructor-word-guess#readme",
   "dependencies": {
     "inquirer": "^6.2.0",
-    "require": "^2.4.20"
+    "request": "^2.88.0"
   }
 }
