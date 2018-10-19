@@ -13,8 +13,6 @@ let Letters = function(character){
     this.guess = function(letter){
         if(letter === character){
             this.guessed = true;
-        } else if (letter !== character){
-            this.guessed = false;
         }
     };
 };
